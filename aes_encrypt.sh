@@ -1,3 +1,4 @@
+#!/bin/sh
 if [ -z $2 ]; then
   printf "Enter key-phrase and file \n"
   exit 0
